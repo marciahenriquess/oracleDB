@@ -41,25 +41,20 @@
 ## 🔌 3. Criar sua primeira conexão
 
 1. Clique no botão de **“+” Conexão** no SQL Developer.
-2. Preencha os dados assim:
-
-Nome da Conexão: minha_conexao
-Usuário: system
-Senha: [a senha que você escolheu]
-Host: localhost
-Porta: 1521
-SID: xe
-
-
+2. Preencha os dados assim:  
+  
+Nome da Conexão: minha_conexao  
+Usuário: system  
+Senha: [a senha que você escolheu]  
+Host: localhost  
+Porta: 1521  
+SID: xe  
+  
 3. Clique em **Testar** → Se estiver “Status: Success”, clique em **Conectar**.
 
 ------------------------------------------------------------------------------------------------------------------------
 
 # Diferenças entre Oracle Database XE e Oracle SQL Developer
-
-Este README explica de forma simples as principais diferenças entre dois produtos essenciais da Oracle para trabalhar com banco de dados: o Oracle Database XE e o Oracle SQL Developer.
-
----
 
 ## O que são?
 
