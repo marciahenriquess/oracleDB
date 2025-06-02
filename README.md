@@ -73,24 +73,6 @@ SID: xe
 | **Oracle Database XE** | Banco de dados completo e gratuito para aprendizado e projetos pequenos. | Armazenar dados, executar consultas e transações. | Servidor de banco de dados local, onde você cria tabelas, insere dados e executa queries. |
 | **Oracle SQL Developer** | IDE cliente para Oracle Database.           | Interface gráfica para facilitar o trabalho com SQL. | Ferramenta para escrever SQL, modelar dados, executar comandos, gerar relatórios e administrar o banco. |
 
----
-
-## Como começar a usar
-
-1. **Instale o Oracle Database XE**  
-   Baixe e instale o Oracle XE para ter o banco de dados local rodando no seu computador.  
-   [Download Oracle Database XE](https://www.oracle.com/br/database/technologies/xe-downloads.html)
-
-2. **Instale o Oracle SQL Developer**  
-   Baixe e extraia o SQL Developer para ter uma interface gráfica para se conectar ao banco.  
-   [Download SQL Developer](https://www.oracle.com/database/technologies/sql-developer.html)
-
-3. **Crie uma conexão no SQL Developer**  
-   Abra o SQL Developer, clique em "Nova Conexão" e preencha com os dados do Oracle XE (exemplo: usuário `system`, senha que você definiu, host `localhost`, porta padrão `1521`, serviço `XE`).
-
-4. **Comece a criar tabelas e rodar consultas SQL!**
-
----
 
 ## Recursos úteis
 
